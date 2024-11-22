@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.1](https://github.com/cloudandthings/terraform-aws-github-runners-ec2/compare/v1.3.0...v1.3.1) (2024-11-22)
+
+
+### Bug Fixes
+
+* Update README.md with correct link ([9781886](https://github.com/cloudandthings/terraform-aws-github-runners-ec2/commit/9781886ff50ee13c8ac75e65468563ae14033be8))
+
 ## [1.2.0](https://github.com/cloudandthings/terraform-aws-github-runners-ec2/compare/v1.1.1...v1.2.0) (2023-02-10)
 
 
