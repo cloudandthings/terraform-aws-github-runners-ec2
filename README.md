@@ -1,6 +1,6 @@
 # [DEPRECATION NOTICE]
 
-This repo is deprecated in favor of [terraform-aws-github-runners](https://github.com/cloudandthings/terraform-aws-github-runners-ec2).
+This repo is deprecated in favor of [terraform-aws-github-runners](https://github.com/cloudandthings/terraform-aws-github-runners).
 
 The new repo uses AWS CodeBuild to create ephemeral runners on-demand.
 
