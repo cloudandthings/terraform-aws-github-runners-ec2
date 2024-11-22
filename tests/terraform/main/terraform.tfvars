@@ -1,4 +1,4 @@
-naming_prefix = "test-terraform-aws-github-runners"
+naming_prefix = "test-terraform-aws-github-runners-ec2"
 
 aws_account_id = "353444730604"
 region         = "eu-west-1"
@@ -10,4 +10,4 @@ subnet_ids = [
   "subnet-0640faa0e0e882b4d"
 ]
 
-iam_instance_profile_arn = "arn:aws:iam::353444730604:instance-profile/terraform-aws-github-runners"
+iam_instance_profile_arn = "arn:aws:iam::353444730604:instance-profile/terraform-aws-github-runners-ec2"
